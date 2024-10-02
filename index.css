@@ -1,0 +1,61 @@
+*
+{
+    background-color: black;
+    
+}
+.netflix
+{  
+ display: flex;
+}
+ .card1 
+{
+background-color: aliceblue;
+border: solid 4px rgb(145, 45, 62);
+padding: 20px;
+justify-content: space-between;
+}
+.card1 h3
+{
+    background-color: azure;
+    color: black;
+    text-align: center;
+}
+.card1 p
+{
+    background-color: azure;
+    color: slategrey;
+}
+.card2
+{
+background-color: aliceblue;
+border: solid 4px brown;
+padding: 0px 20px;
+}
+.card2 h3
+{
+    background-color: azure;
+    color: black;
+    text-align: center;
+}
+.card2 p
+{
+    background-color: azure;
+    color: slategrey;
+}
+.card3
+{
+background-color: aliceblue;
+border: solid 4px brown;
+padding: 0px 20px;
+}
+.card3 h3
+{
+    background-color: azure;
+    color: black;
+    text-align: center;
+}
+.card3 p
+{
+    background-color: azure;
+    color: slategrey;
+}
